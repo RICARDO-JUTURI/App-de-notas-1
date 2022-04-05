@@ -1,0 +1,23 @@
+[
+    {
+      "titulo": "planDiario1",
+        "estado": "terminado"
+    },{
+        "titulo": "planDiario2",
+        "estado": "terminado"
+    },
+    {"titulo": "planDiario3",
+        "estado": "progreso"
+
+    },{
+        "titulo": "planDiario4",
+        "estado": "pendiente"
+    } ,
+    {
+        "titulo": "planTourFrance",
+        "estado": "progreso"
+    },{
+        "titulo": "planLargoPlazo",
+        "estado": "pendiente"
+    }
+]
